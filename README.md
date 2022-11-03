@@ -12,18 +12,22 @@ credit
 Otornait
 
 프로그래밍 : 노훈철
+
 기획 : 노훈철, 이창민
+
 아트 : 노훈철, 이창민
+
 노트데이터 : 노훈철, 이창민
 
 노래수급 : 노훈철, 이창민
+
 ChartreuseGreen_H : t+pazolite
+
 Hiatus_Departure : Aoi
+
 RaSeed : Aoi
 
-작곡 : 노훈철
-day20
-Rift
+작곡 : 노훈철 ( day20, Rift0 )
 
 곡 배경 이미지 : 
 Rift : lumberjacck (WallHeaven - https://whvn.cc/j5oqqq)
