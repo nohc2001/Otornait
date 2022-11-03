@@ -1,0 +1,22 @@
+Player
+0
+0
+0
+1
+0
+0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+5
+ChartreuseGreen_H 180 131 t+pazolite RUBY t+pazolite 1 815 7 1000000000 1 1073 0 0
+Hiatus_Departure 200 126 Aoi RUBY suke 2 1130 7 1000000000 1 1450 0 0
+RaSeed 130 152 Aoi RUBY suke 0 789 7 1000000000 1 909 0 0
+Rift0 140 240 DrumTimes DrumTimes lumberjacck 0 603 7 1000000000 1 1286 0 0
+days20 130 155 DrumTimes DrumTimes JustJon 0 629 7 1000000000 1 920 0 0
+0
+0
+0
+1
+1
+1
+1
+1
