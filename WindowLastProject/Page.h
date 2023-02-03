@@ -289,7 +289,7 @@ void IFClickSetReturn(const GameButton* obj, const HWND& hWnd, const UINT& iMess
 class CreditPage : GameObject {
 	bool first = true;
 	char nstate = 't';
-	TCHAR creditTEXT[600] = L"credit\n한국공학대학교 윈도우 프로그래밍 12팀\nOtornait\n\n프로그래밍 : 노훈철\n기획 : 노훈철, 이창민\n아트 : 노훈철, 이창민\n노트데이터 : 노훈철, 이창민\n\n노래수급 : 이창민\nChartreuseGreen_H : t + pazolite\nHiatus_Departure : Aoi\nRaSeed : Aoi\n\n작곡 : 노훈철\nRift\ndays20\n\n곡 배경 이미지 : suke\nRift : lumberjacck(WallHeaven - https:/whvn.cc/j5oqqq)\nday20 : JustJon (WallHeaven - https:/whvn.cc/1kjyjv)\n\n사운드 시스템 : FMOD SoundSystem\n개발 언어 : C++\nAPI : Windows\n\nIcon from.Iconfinder\n\n플레이 해주셔서 감사합니다.";
+	TCHAR creditTEXT[600] = L"credit\n한국공학대학교 윈도우 프로그래밍 12팀\nOtornait\n\n프로그래밍 : 노훈철\n기획 : 노훈철, 이창민\n아트 : 노훈철, 이창민\n노트데이터 : 노훈철, 이창민\n\n노래수급 : 이창민\nChartreuseGreen_H : t + pazolite\nHiatus_Departure : Aoi\nRaSeed : CUT(Calixer+Und0+Turret)\n\n작곡 : 노훈철\nRift\ndays20\n\n곡 배경 이미지 : suke\nRift : lumberjacck(WallHeaven - https:/whvn.cc/j5oqqq)\nday20 : JustJon (WallHeaven - https:/whvn.cc/1kjyjv)\n\n사운드 시스템 : FMOD SoundSystem\n개발 언어 : C++\nAPI : Windows\n\nIcon from.Iconfinder\n\n플레이 해주셔서 감사합니다.";
 
 	GameButton* ReturnBtn = nullptr;
 public:
